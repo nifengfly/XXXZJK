@@ -88,9 +88,9 @@ http://220.248.188.196:8991/tsfile/live/0137_1.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png",厦门卫视
 http://123.189.36.4:9901/tsfile/live/1054_1.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
-http://116.21.121.116:4433/tsfile/live/0125_1.m3u8
+http://118.144.105.55:91/live/GDWShd-8M/live.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
-http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
+http://118.144.105.55:91/live/GDWS-1500k/live.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
 http://123.160.235.93:85/tsfile/live/0126_1.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
